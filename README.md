@@ -86,7 +86,7 @@ Most of my work, and all of the reverse-engineering work, lives in private repos
 - Malika Ayane — *Wow (Niente Aspetta)* (Sugar, 2019)
 - Big Fish — *Niente Di Personale* (Doner Music, 2013), including tracks with Caparezza (*Solo Col Mic*), Morgan (*Io Faccio*) and Manuel Agnelli (*Lasciami Leccare L'Adrenalina*)
 - Syria — *10* (Sony Music, 2014)
-- *Sanremo 2016* official compilation (Warner, 2016)
+- Mahmood — *Dimentica* (Sanremo 2016)
 - Culture Of Greed — *YSA* (Plasmapool, 2013)
 
 **Mixing and mastering**
