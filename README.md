@@ -2,7 +2,7 @@
 
 Music producer and developer based in Milan. Fifteen years of records, growth strategy and code: I produce, mix and master for Italian rap and pop artists, co-run an independent electronic label, and build software for companies, from business platforms to e-commerce.
 
-[matteolovalvo.com](https://matteolovalvo.com) · [LinkedIn](https://www.linkedin.com/in/matteolovalvo) · [Discogs](https://www.discogs.com/artist/3872347-Matteo-Lo-Valvo?filter_anv=0&type=Credits) · [Spotify](https://open.spotify.com/artist/687ExoHxOerWXIPeYfJquf) · [matteo@lovalvo.it](mailto:matteo@lovalvo.it)
+[matteolovalvo.com](https://matteolovalvo.com) · [LinkedIn](https://www.linkedin.com/in/matteolovalvo) · [Discogs](https://www.discogs.com/artist/3872347-Matteo-Lo-Valvo?filter_anv=0&type=Credits) · [Muso.AI](https://muso.ai/profile/2358c1af-ea76-473b-98c7-b4ed583b5d62) · [Spotify](https://open.spotify.com/artist/687ExoHxOerWXIPeYfJquf) · [matteo@lovalvo.it](mailto:matteo@lovalvo.it)
 
 ## Now
 
