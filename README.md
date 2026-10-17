@@ -111,7 +111,7 @@ Most of my work, and all of the reverse-engineering work, lives in private repos
 ## Strategy and marketing
 
 - **IMSOMEWHERE** (co-founder, 2017 – today): content, social, advertising and growth for fashion. *Au Départ* video series placed in *Vogue Italia* and *Madame Figaro*; work for Santoni, JPLUS, Care Label, Laura Strambi, Shirtaporter
-- **NEXT3** (Head of Digital Strategies, 2015 – 2018): music promotion, lowlow's social media, website and *Il Bambino Soldato* tour campaign, the *Big Fish History* web series
+- **NEXT3** (co-founder, Music Producer & Head of Digital Strategies, 2015 – 2018): music promotion, lowlow's social media, website and *Il Bambino Soldato* tour campaign, the *Big Fish History* web series
 - **Doner Music** (2012 – 2015): production and the first digital strategies for releases on Big Fish's label
 
 ## Education
