@@ -7,8 +7,9 @@ Music producer and developer based in Milan. Fifteen years of records, growth st
 ## Now
 
 - **Digital Strategist & Developer** at [Effetto Larsen](https://effettolarsen.it) (formerly Reverb), Milan · 2020 – today
-- **Co-founder, Head of Strategy** at [IMSOMEWHERE](https://imsomewhere.it), creative digital agency for fashion · 2017 – today
+- **Co-founder, Head of Strategy** at [IMSOMEWHERE](https://imsomewhere.it), creative digital agency for fashion · 2014 – today
 - **Co-founder, sound engineer & IT specialist** at [White Forest Records](https://whiteforestrecords.com) · 2013 – today
+- **Independent software developer**: business software, e-commerce, automation and reverse engineering · 2011 – today
 - **Producer and artist**, with self-released electronic singles and remixes
 
 ## Engineering
@@ -110,13 +111,14 @@ Most of my work, and all of the reverse-engineering work, lives in private repos
 
 ## Strategy and marketing
 
-- **IMSOMEWHERE** (co-founder, 2017 – today): content, social, advertising and growth for fashion. *Au Départ* video series placed in *Vogue Italia* and *Madame Figaro*; work for Santoni, JPLUS, Care Label, Laura Strambi, Shirtaporter
+- **IMSOMEWHERE** (co-founder, 2014 – today): content, social, advertising and growth for fashion. *Au Départ* video series placed in *Vogue Italia* and *Madame Figaro*; work for Santoni, JPLUS, Care Label, Laura Strambi, Shirtaporter
 - **NEXT3** (co-founder, Music Producer & Head of Digital Strategies, 2015 – 2018): music promotion, lowlow's social media, website and *Il Bambino Soldato* tour campaign, the *Big Fish History* web series
 - **Doner Music** (2012 – 2015): production and the first digital strategies for releases on Big Fish's label
 
 ## Education
 
-- **SAE Institute**, B.A. (First Class): advanced studio production, creative media marketing, copyright and IP law, business of music
-- **IED**, B.A. (Hons.), 110 cum laude: sound design, electronic music production, game audio, sound for film
-- **SAE Institute**, Diploma: music theory, studio production, MIDI, mixing, audio post-production, acoustics
-- **IED**, Diploma (First Class): studio production, contemporary art history, Max/MSP programming
+- **SAE Institute**, B.A. Audio Production, First Class · 2015 – 2016
+- **IED**, Nuove Tecnologie dell'Arte (Sound Design), 110 cum laude · 2014 – 2015
+- **SAE Institute**, Audio Engineering Diploma · 2013 – 2014
+- **IED**, B.A. Sound Design, 100 cum laude, including Max/MSP programming · 2010 – 2013
+- **Politecnico di Milano**, Computer Engineering · 2009 – 2010
